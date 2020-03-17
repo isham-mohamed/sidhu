@@ -1,0 +1,4 @@
+PRP RB
+RB VBP
+VBP DT
+DT NN

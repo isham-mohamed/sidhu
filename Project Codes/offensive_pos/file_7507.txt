@@ -1,0 +1,4 @@
+NN VBP
+VBP PDT
+PDT DT
+DT NN

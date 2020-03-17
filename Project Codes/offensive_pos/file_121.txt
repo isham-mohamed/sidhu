@@ -1,0 +1,5 @@
+VBN TO
+TO VB
+VB DT
+DT NN
+NN RP

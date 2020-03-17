@@ -1,0 +1,3 @@
+WP IN
+IN JJ
+JJ NNS

@@ -1,0 +1,5 @@
+NNS VBP
+VBP JJ
+JJ RB
+RB VB
+VB JJ

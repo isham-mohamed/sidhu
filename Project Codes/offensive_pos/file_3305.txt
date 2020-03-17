@@ -1,0 +1,4 @@
+WP DT
+DT RB
+RB JJ
+JJ NN

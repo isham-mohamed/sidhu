@@ -1,0 +1,4 @@
+PRP VBZ
+VBZ NN
+NN IN
+IN PRP

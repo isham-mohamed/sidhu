@@ -1,0 +1,6 @@
+NN RB
+RB DT
+DT JJ
+JJ NNS
+NNS DT
+DT NN

@@ -1,0 +1,4 @@
+NN PRP
+PRP RP
+RP JJ
+JJ NN

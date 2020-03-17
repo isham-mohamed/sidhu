@@ -1,0 +1,5 @@
+WP VBZ
+VBZ RP
+RP PRP$
+PRP$ NN
+NN NN

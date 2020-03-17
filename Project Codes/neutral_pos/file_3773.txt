@@ -1,0 +1,5 @@
+RB MD
+MD RB
+RB VB
+VB NNS
+NNS RB

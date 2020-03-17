@@ -1,0 +1,4 @@
+NN VBZ
+VBZ IN
+IN DT
+DT NNS

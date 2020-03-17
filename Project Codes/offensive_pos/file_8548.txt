@@ -1,0 +1,4 @@
+NN IN
+IN PRP$
+PRP$ NN
+NN NN

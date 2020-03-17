@@ -1,0 +1,5 @@
+VB WP
+WP NN
+NN VBZ
+VBZ RP
+RP TO

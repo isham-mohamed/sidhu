@@ -1,0 +1,6 @@
+WP JJ
+JJ NN
+NN VBP
+VBP DT
+DT NN
+NN MD

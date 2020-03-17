@@ -1,0 +1,4 @@
+WP DT
+DT IN
+IN DT
+DT NN

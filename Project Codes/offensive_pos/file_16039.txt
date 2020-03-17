@@ -1,0 +1,6 @@
+NNS RP
+RP TO
+TO DT
+DT PRP$
+PRP$ NN
+NN NNS

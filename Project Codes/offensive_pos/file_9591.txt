@@ -1,0 +1,4 @@
+IN PRP
+PRP JJ
+JJ NN
+NN NN

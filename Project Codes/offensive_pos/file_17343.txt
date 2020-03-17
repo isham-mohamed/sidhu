@@ -1,0 +1,3 @@
+PRP VBP
+VBP RB
+RB NNS

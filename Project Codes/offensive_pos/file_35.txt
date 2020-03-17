@@ -1,0 +1,3 @@
+VBZ IN
+IN NN
+NN NN

@@ -1,0 +1,5 @@
+PRP$ JJ
+JJ NNS
+NNS IN
+IN NN
+NN NNS

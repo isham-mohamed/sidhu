@@ -1,0 +1,4 @@
+NN WDT
+WDT VBP
+VBP IN
+IN NN

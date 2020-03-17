@@ -1,0 +1,4 @@
+NN WDT
+WDT VBZ
+VBZ IN
+IN EX

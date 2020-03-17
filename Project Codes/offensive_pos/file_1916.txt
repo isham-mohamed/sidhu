@@ -1,0 +1,3 @@
+DT JJ
+JJ VB
+VB VBG

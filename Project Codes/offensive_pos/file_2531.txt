@@ -1,0 +1,3 @@
+DT PRP
+PRP VBZ
+VBZ NN

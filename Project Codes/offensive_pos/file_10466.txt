@@ -1,0 +1,2 @@
+RB VBZ
+VBZ NN

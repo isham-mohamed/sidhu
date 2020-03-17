@@ -1,0 +1,4 @@
+NN NN
+NN FW
+FW NN
+NN NN

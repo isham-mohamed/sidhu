@@ -1,0 +1,5 @@
+RB RB
+RB VB
+VB RB
+RB NN
+NN DT

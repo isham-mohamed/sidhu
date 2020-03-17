@@ -1,0 +1,3 @@
+NN VBD
+VBD NN
+NN NN

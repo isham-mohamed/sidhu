@@ -1,0 +1,5 @@
+on gc  
+gc i  
+i lv  
+lv dis  
+dis bitch  

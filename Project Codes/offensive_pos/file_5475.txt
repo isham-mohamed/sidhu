@@ -1,0 +1,6 @@
+NN NN
+NN CC
+CC VB
+VB RP
+RP PRP$
+PRP$ NN

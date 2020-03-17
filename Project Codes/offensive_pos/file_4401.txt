@@ -1,0 +1,3 @@
+WP NN
+NN VBD
+VBD NN

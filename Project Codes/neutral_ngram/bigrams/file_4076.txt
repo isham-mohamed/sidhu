@@ -1,0 +1,7 @@
+mashed potatoes  
+potatoes string  
+string beans  
+beans yellow  
+yellow rice  
+rice and  
+and chicken  

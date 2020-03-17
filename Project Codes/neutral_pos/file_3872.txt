@@ -1,0 +1,4 @@
+WRB VBD
+VBD VB
+VB NN
+NN NN

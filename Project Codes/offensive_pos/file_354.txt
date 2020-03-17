@@ -1,0 +1,5 @@
+CC VB
+VB PRP
+PRP MD
+MD VB
+VB VBN

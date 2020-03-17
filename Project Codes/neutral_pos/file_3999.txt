@@ -1,0 +1,4 @@
+JJ NN
+NN VBZ
+VBZ PRP
+PRP VB

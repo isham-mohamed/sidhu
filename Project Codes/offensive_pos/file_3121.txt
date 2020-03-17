@@ -1,0 +1,4 @@
+NN PDT
+PDT DT
+DT NN
+NN NNS

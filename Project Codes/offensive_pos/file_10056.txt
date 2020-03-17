@@ -1,0 +1,5 @@
+PRP$ CD
+CD JJ
+JJ NN
+NN CC
+CC NN

@@ -1,0 +1,4 @@
+VB RB
+RB TO
+TO NNS
+NNS VB

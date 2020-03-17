@@ -1,0 +1,3 @@
+NN IN
+IN WP
+WP NN

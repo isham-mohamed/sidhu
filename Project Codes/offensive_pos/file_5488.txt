@@ -1,0 +1,7 @@
+DT JJ
+JJ NN
+NN NN
+NN NN
+NN TO
+TO PRP$
+PRP$ NN

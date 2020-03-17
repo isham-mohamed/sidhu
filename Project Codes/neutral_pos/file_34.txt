@@ -1,0 +1,5 @@
+DT RB
+RB VBZ
+VBZ MD
+MD VB
+VB PRP

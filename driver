@@ -1,0 +1,18 @@
+for item in dup.keys():
+  if item not in dup_fname.keys():
+    print(item)
+
+f = open("output/hate_ngram_table.txt","w")
+for item in dup.keys():
+  f.write(item+" "+str(dup[item])+"  "+str(dup_fname[item])+"\n")
+  print(item,dup[item],dup_fname[item])
+
+import json
+json1 = json.dumps(dup)
+f = open("output/hate_ngram_word_count.json","w")
+f.write(json1)
+f.close()
+json1 = json.dumps(dup_fname)
+f = open("output/hate_ngram_file_count.json","w")
+f.write(json1)
+f.close()

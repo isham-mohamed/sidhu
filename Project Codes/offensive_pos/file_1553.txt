@@ -1,0 +1,5 @@
+NN NNP
+NNP NN
+NN NN
+NN IN
+IN NN

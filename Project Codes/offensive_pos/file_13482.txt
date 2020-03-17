@@ -1,0 +1,6 @@
+NN DT
+DT NN
+NN RB
+RB VB
+VB PRP$
+PRP$ JJ

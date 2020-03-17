@@ -1,0 +1,3 @@
+RB VBZ
+VBZ VB
+VB PRP

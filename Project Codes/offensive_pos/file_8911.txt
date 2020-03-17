@@ -1,0 +1,6 @@
+NN IN
+IN TO
+TO VB
+VB PDT
+PDT DT
+DT NN

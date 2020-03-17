@@ -1,0 +1,4 @@
+NN NN
+NN WDT
+WDT VBZ
+VBZ RP

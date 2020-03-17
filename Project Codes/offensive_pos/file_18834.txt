@@ -1,0 +1,5 @@
+NN RP
+RP DT
+DT NN
+NN NN
+NN PRP

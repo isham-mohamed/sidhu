@@ -1,0 +1,4 @@
+NN VB
+VB RP
+RP IN
+IN PRP

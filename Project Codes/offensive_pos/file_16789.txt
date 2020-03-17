@@ -1,0 +1,3 @@
+DT NNS
+NNS VBD
+VBD NN

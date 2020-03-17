@@ -1,0 +1,6 @@
+JJ NN
+NN VB
+VB RB
+RB TO
+TO VB
+VB JJ

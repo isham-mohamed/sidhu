@@ -1,0 +1,7 @@
+VBN CC
+CC JJ
+JJ NN
+NN IN
+IN JJ
+JJ NN
+NN NN

@@ -1,0 +1,5 @@
+DT DT
+DT NN
+NN NN
+NN VBZ
+VBZ VBN

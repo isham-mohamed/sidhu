@@ -1,0 +1,5 @@
+NN NN
+NN MD
+MD VB
+VB CD
+CD NN

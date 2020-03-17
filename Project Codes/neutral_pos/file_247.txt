@@ -1,0 +1,3 @@
+WRB VBZ
+VBZ DT
+DT NN

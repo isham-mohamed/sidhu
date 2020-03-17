@@ -1,0 +1,4 @@
+UH UH
+UH NN
+NN WDT
+WDT NN

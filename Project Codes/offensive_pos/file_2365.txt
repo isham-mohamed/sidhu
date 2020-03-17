@@ -1,0 +1,6 @@
+VB PRP$
+PRP$ NN
+NN VBP
+VBP IN
+IN DT
+DT NN

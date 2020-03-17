@@ -1,0 +1,4 @@
+NN MD
+MD VB
+VB NNS
+NNS IN

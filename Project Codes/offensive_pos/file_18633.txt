@@ -1,0 +1,3 @@
+IN VBG
+VBG NN
+NN NNS

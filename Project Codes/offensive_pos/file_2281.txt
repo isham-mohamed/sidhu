@@ -1,0 +1,3 @@
+NN NN
+NN PRP
+PRP VBD

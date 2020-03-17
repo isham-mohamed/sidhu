@@ -1,0 +1,4 @@
+DT JJR
+JJR NNS
+NNS IN
+IN NN

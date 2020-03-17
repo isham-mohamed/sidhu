@@ -1,0 +1,6 @@
+JJ CC
+CC VB
+VB PRP
+PRP MD
+MD VB
+VB RB

@@ -1,0 +1,4 @@
+NN VBG
+VBG RB
+RB JJ
+JJ NN

@@ -1,0 +1,3 @@
+JJ CD
+CD NN
+NN NN

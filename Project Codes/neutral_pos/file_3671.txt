@@ -1,0 +1,4 @@
+DT NNS
+NNS CC
+CC DT
+DT NNS

@@ -1,0 +1,4 @@
+NN JJ
+JJ RP
+RP JJ
+JJ NN

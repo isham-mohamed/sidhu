@@ -1,0 +1,3 @@
+NN MD
+MD VB
+VB NN

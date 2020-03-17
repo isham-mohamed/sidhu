@@ -1,0 +1,5 @@
+NNS CC
+CC DT
+DT NN
+NN NN
+NN CD

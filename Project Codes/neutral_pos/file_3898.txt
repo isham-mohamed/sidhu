@@ -1,0 +1,3 @@
+WRB NN
+NN VBZ
+VBZ NNS

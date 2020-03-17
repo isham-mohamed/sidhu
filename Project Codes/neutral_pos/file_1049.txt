@@ -1,0 +1,4 @@
+VB JJ
+JJ IN
+IN RB
+RB VB

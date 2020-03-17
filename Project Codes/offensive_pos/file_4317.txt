@@ -1,0 +1,4 @@
+PRP NN
+NN WRB
+WRB CC
+CC WRB

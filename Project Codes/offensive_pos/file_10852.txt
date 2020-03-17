@@ -1,0 +1,5 @@
+NN VB
+VB WP
+WP NN
+NN VBZ
+VBZ DT

@@ -1,0 +1,3 @@
+VB WRB
+WRB NNS
+NNS VBP

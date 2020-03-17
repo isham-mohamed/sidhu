@@ -1,0 +1,6 @@
+MD VB
+VB PRP
+PRP TO
+TO VB
+VB DT
+DT NN

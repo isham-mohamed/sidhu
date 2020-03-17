@@ -1,0 +1,4 @@
+VB PRP$
+PRP$ NN
+NN PRP
+PRP NNS

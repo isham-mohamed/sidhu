@@ -1,0 +1,5 @@
+JJ VBD
+VBD DT
+DT NN
+NN JJ
+JJ NN

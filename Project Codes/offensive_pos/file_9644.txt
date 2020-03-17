@@ -1,0 +1,4 @@
+RB RB
+RB NN
+NN NN
+NN NN

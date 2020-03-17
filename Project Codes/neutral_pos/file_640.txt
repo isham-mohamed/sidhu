@@ -1,0 +1,5 @@
+DT NN
+NN JJ
+JJ IN
+IN JJ
+JJ NNS

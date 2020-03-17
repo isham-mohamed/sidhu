@@ -1,0 +1,5 @@
+NN VB
+VB PDT
+PDT DT
+DT JJ
+JJ NNS

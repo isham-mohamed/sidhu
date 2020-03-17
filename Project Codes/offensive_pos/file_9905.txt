@@ -1,0 +1,6 @@
+PRP$ NN
+NN MD
+MD VB
+VB NN
+NN IN
+IN NN

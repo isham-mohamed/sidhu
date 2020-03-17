@@ -1,0 +1,9 @@
+alarm set  
+set early  
+early bird  
+bird n  
+n all  
+all that  
+that night  
+night all  
+all xx  

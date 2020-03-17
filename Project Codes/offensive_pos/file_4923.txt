@@ -1,0 +1,3 @@
+WRB RB
+RB JJ
+JJ NNS

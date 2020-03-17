@@ -1,0 +1,4 @@
+PRP$ PDT
+PDT DT
+DT NN
+NN NN

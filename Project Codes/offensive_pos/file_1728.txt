@@ -1,0 +1,4 @@
+NNS RP
+RP RB
+RB NN
+NN NN

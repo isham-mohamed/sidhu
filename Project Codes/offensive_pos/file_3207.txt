@@ -1,0 +1,5 @@
+NN CC
+CC NN
+NN IN
+IN NN
+NN NN

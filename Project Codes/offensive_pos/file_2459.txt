@@ -1,0 +1,7 @@
+WP MD
+MD VB
+VB IN
+IN JJ
+JJ JJ
+JJ NN
+NN NN

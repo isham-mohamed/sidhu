@@ -1,0 +1,5 @@
+NN VBP
+VBP NN
+NN IN
+IN DT
+DT NN

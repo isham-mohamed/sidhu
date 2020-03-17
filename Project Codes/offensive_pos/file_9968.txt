@@ -1,0 +1,5 @@
+PRP$ NNS
+NNS VB
+VB TO
+TO VB
+VB NN

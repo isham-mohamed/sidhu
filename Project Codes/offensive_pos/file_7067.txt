@@ -1,0 +1,4 @@
+NN VBG
+VBG RP
+RP NNS
+NNS IN

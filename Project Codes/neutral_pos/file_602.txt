@@ -1,0 +1,6 @@
+JJ NN
+NN WP
+WP VBZ
+VBZ TO
+TO VB
+VB NN

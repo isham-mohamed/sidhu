@@ -1,0 +1,4 @@
+PDT DT
+DT NNS
+NNS IN
+IN PRP

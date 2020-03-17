@@ -1,0 +1,3 @@
+JJ NN
+NN WDT
+WDT NN

@@ -1,0 +1,4 @@
+VBZ PRP
+PRP JJ
+JJ IN
+IN NNS

@@ -1,0 +1,9 @@
+call a  
+a hoe  
+hoe a  
+a hoe  
+hoe and  
+and a  
+a rat  
+rat a  
+a rat  

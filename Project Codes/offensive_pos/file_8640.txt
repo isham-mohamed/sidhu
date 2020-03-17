@@ -1,0 +1,5 @@
+NNS PDT
+PDT DT
+DT NN
+NN RB
+RB JJ

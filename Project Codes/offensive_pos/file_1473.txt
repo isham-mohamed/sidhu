@@ -1,0 +1,6 @@
+JJ JJ
+JJ IN
+IN NN
+NN IN
+IN NN
+NN NN

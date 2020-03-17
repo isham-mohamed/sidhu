@@ -1,0 +1,4 @@
+PRP$ TO
+TO VBP
+VBP JJ
+JJ IN

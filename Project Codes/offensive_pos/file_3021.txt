@@ -1,0 +1,4 @@
+NN TO
+TO DT
+DT NN
+NN NN
